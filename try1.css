@@ -1,7 +1,7 @@
 h1 {
   background: #8d603b;
   padding: 0 24px;
-  color: white; /* Change my color to yellow */
+  color: red; /* Change my color to yellow */
   margin: 0;
   height: 100vh;
   display: flex;
